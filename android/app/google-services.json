@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20646607858",
+    "project_id": "helpdesk-daad2",
+    "storage_bucket": "helpdesk-daad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20646607858:android:c13e8cd19857921552896b",
+        "android_client_info": {
+          "package_name": "com.helpdesk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20646607858-i5h5sp2ethj95utgc02ro00nqtei0ib9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCckCyVkf64N8K_TZ-viQRXRj4VKAdlDwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20646607858-i5h5sp2ethj95utgc02ro00nqtei0ib9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
