@@ -18,7 +18,7 @@ App to manage maintenance calls.
 
 ## Features
 
-- User authentication 
+- User authentication
 - Create new user
 - Create new order
 - List orders
@@ -32,7 +32,7 @@ App to manage maintenance calls.
 
 You have two branchs. The master you have project base with layout design only. And, the done you have the project finished with charts implemented.
 
-Clone this project and start with Expo: 
+Clone this project and start with Expo:
 ```bash
   git clone branch_url
   cd expensesapp
@@ -40,7 +40,7 @@ Clone this project and start with Expo:
   expo start
 ```
 
-## Feedback 
 
-Would you like to speak with me? I find myself on Linkedin: [linkedin.com/in/rodrigo-goncalves-santana/](https://www.linkedin.com/in/rodrigo-goncalves-santana/)
+Obs:
 
+This application was created using the interface built by `rocketseat@rodrigortic` and improved using firebase to authentication and registration of user.
